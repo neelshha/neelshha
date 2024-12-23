@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm **Neel**
 
-I'm a **Computer Science** undergraduate student at [NMIMS' MPSTME](https://engineering.nmims.edu/#) in Mumbai, **India**.
+I'm pursuing **BTech Computer Science & Engineering(Cybersecurity)** at [NMIMS' MPSTME](https://engineering.nmims.edu/#) in **Mumbai, India** with an expected graduation in **2026**.
 
 ---
 
