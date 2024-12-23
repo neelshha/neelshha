@@ -1,9 +1,21 @@
-<p><samp>Hi there! I'm <b>Neel</b>.</samp></p>
-<p><samp>I'm a <b>Computer Science</b> undergraduate student at <a href="https://engineering.nmims.edu/#">NMIMS' MPSTME</a> in Mumbai, <b>India</b>.</samp></p>
-<p><samp>I'm passionate about <b>UI/UX</b>, <b>Web Development</b>, and <b>Open Source</b>.</samp></p>
-<hr>
-<p>
-  <a href="https://br.linkedin.com/in/neelshha">LinkedIn</a><br>
-  <a href="mailto:neelshha@gmail.com">GMail</a><br>
-  <a href="https://instagram.com/neelshha">Instagram</a>
-</p>
+# Hi there! 👋 I'm **Neel**
+
+I'm a **Computer Science** undergraduate student at [NMIMS' MPSTME](https://engineering.nmims.edu/#) in Mumbai, **India**.
+
+---
+
+### 🌟 About Me
+- 🚀 Passionate about **Technical Management**, **UI/UX Design**, **Web Development**, and **Open Source**.
+- 🎯 Focused on creating scalable, user-centric solutions by blending **technical expertise** with **strategic thinking**.
+- 💡 Interested in bridging the gap between **technology** and **business management**.
+
+---
+
+### 🌐 Connect with Me
+- [**LinkedIn**](https://br.linkedin.com/in/neelshha)
+- [**Email**](mailto:neelshha@gmail.com)
+- [**Instagram**](https://instagram.com/neelshha)
+
+---
+
+> _"Turning ideas into impactful, user-friendly solutions."_
