@@ -1,4 +1,4 @@
-<h1>Hi, I'm Neel Shah</h1>
+<h3>Hi, I'm Neel Shah</h3>
 <p>I'm a computer science student at NMIMS who builds digital products, with a deep focus on the details that make an experience simple and intuitive. I work as a design engineer directly in code, using modern tools & AI to build efficiently.</p>
 <p>My Digital Presence</p>
 <ul style="list-style-type: none; padding-left: 0;">
