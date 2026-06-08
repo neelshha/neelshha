@@ -1,5 +1,3 @@
-## Hi, I'm Neel Shah
-
 ### Design Engineer
 
 I'm a design engineer. I set the direction and build it. Previously, [Kill Your Dreams](https://www.killyourdreams.com) and a few [others](https://www.linkedin.com/in/neelshha). See my work on [X](https://x.com/neelshha) and contact me at [Email](mailto:neelshha@gmail.com).
@@ -8,7 +6,7 @@ I run [TventyOne Studio](https://www.tventyone.com). Design should have a point 
 
 ---
 
-#### My Digital Presence
+### My Digital Presence
 
 <table>
   <tr>
@@ -33,6 +31,8 @@ I run [TventyOne Studio](https://www.tventyone.com). Design should have a point 
   </tr>
 </table>
 
-<br />
+---
+
+### Visit Counter
 
 ![Visitor Count](https://page-visitor.vercel.app/neelshha/count.svg?digits=6&boxColor=%23000000&textColor=%2300FF13&boxW=29&boxH=29&gap=3&fontSize=24)
