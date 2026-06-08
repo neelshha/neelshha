@@ -1,34 +1,42 @@
-<div>
-  <h2 style="margin-bottom: 0.25rem;">Hi, I'm Neel Shah</h2>
-  <p style="margin-top: 0; color: #63635e; font-size: 1rem;">Design Engineer</p>
-</div>
+## Hi, I'm Neel Shah
 
-<br />
+### Design Engineer
 
-<p style="color: #63635e; line-height: 1.6; max-width: 65ch;">
-  I'm a design engineer. I set the direction and build it. Previously,
-  <a href="https://www.killyourdreams.com">Kill Your Dreams</a>
-  and a few
-  <a href="https://www.linkedin.com/in/neelshha">others</a>.
-  See my work on
-  <a href="https://x.com/neelshha">X</a>,
-  code on
-  <a href="https://github.com/neelshha">GitHub</a>,
-  and contact me at
-  <a href="mailto:neelshha@gmail.com">Email</a>.
-</p>
+I'm a design engineer. I set the direction and build it. Previously, [Kill Your Dreams](https://www.killyourdreams.com) and a few [others](https://www.linkedin.com/in/neelshha). See my work on [X](https://x.com/neelshha), code on [GitHub](https://github.com/neelshha), and contact me at [Email](mailto:neelshha@gmail.com).
 
-<p style="color: #63635e; line-height: 1.6; max-width: 65ch;">
-  I run <a href="https://www.tventyone.com">TventyOne Studio</a>.
-  Design should have a point of view. I make sure it does.
-</p>
+I run [TventyOne Studio](https://www.tventyone.com). Design should have a point of view. I make sure it does.
 
-<br />
+---
 
-<p style="margin-bottom: 0.5rem;"><strong>My Digital Presence</strong></p>
+#### My Digital Presence
 
-<ul style="list-style-type: none; padding-left: 0; line-height: 1.8; color: #63635e;">
-  <li>Website → <a href="https://www.neelshha.com/">neelshha.com</a></li>
-  <li>Mail → <a href="mailto:neelshha@gmail.com">neelshha@gmail.com</a></li>
-  ...
-</ul>
+<table>
+  <tr>
+    <td width="90"><strong>Website</strong></td>
+    <td><a href="https://www.neelshha.com/">neelshha.com</a></td>
+  </tr>
+  <tr>
+    <td><strong>Mail</strong></td>
+    <td><a href="mailto:neelshha@gmail.com">neelshha@gmail.com</a></td>
+  </tr>
+  <tr>
+    <td><strong>X</strong></td>
+    <td><a href="https://x.com/neelshha">x.com/neelshha</a></td>
+  </tr>
+  <tr>
+    <td><strong>GitHub</strong></td>
+    <td><a href="https://github.com/neelshha">github.com/neelshha</a></td>
+  </tr>
+  <tr>
+    <td><strong>Medium</strong></td>
+    <td><a href="https://medium.com/@neelshha">medium.com/@neelshha</a></td>
+  </tr>
+  <tr>
+    <td><strong>LinkedIn</strong></td>
+    <td><a href="https://www.linkedin.com/in/neelshha">linkedin.com/in/neelshha</a></td>
+  </tr>
+  <tr>
+    <td><strong>Studio</strong></td>
+    <td><a href="https://www.tventyone.com">tventyone.com</a></td>
+  </tr>
+</table>
