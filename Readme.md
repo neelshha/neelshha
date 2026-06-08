@@ -6,8 +6,6 @@ I'm a design engineer. I set the direction and build it. Previously, [Kill Your 
 
 I run [TventyOne Studio](https://www.tventyone.com). Design should have a point of view. I make sure it does.
 
-I do art direction and design engineering. I like software that feels clear and well built, and I care about the work that ships.
-
 **My Digital Presence**
 
 - Website → [neelshha.com](https://www.neelshha.com/)
