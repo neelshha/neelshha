@@ -11,7 +11,5 @@ I run [TventyOne Studio](https://www.tventyone.com). Design should have a point 
 - Website → [neelshha.com](https://www.neelshha.com/)
 - Mail → [neelshha@gmail.com](mailto:neelshha@gmail.com)
 - X → [x.com/neelshha](https://x.com/neelshha)
-- GitHub → [github.com/neelshha](https://github.com/neelshha)
-- Medium → [medium.com/@neelshha](https://medium.com/@neelshha)
 - LinkedIn → [linkedin.com/in/neelshha](https://www.linkedin.com/in/neelshha)
 - Studio → [tventyone.com](https://www.tventyone.com)
