@@ -1,11 +1,19 @@
-<h2>Hi, I'm Neel Shah</h2>
-<p>I'm a computer science student at NMIMS who builds digital products, with a deep focus on the details that make an experience simple and intuitive. I work as a design engineer directly in code, using modern tools & AI to build efficiently.</p>
-<p>My Digital Presence</p>
-<ul style="list-style-type: none; padding-left: 0;">
-    <li>Website → <a target="_blank" href="https://www.neelshha.com/">neelshha.com</a></li>
-    <li>Mail → <a target="_blank" href="mailto:contact@neelshha.com">contact@neelshha.com</a></li>
-    <li>X → <a target="_blank" href="https://x.com/neelshha">x.com/neelshha</a></li>
-    <li>Medium → <a target="_blank" href="https://medium.com/@neelshha">medium.com/@neelshha</a></li>
-    <li>Instagram → <a target="_blank" href="https://www.instagram.com/neelshha">instagram.com/neelshha</a></li>
-    <li>LinkedIn → <a target="_blank" href="https://www.linkedin.com/in/neelshha">linkedin.com/in/neelshha</a></li>
-</ul>
+## Hi, I'm Neel Shah
+
+**Design Engineer**
+
+I'm a design engineer. I set the direction and build it. Previously, [Kill Your Dreams](https://www.killyourdreams.com) and a few [others](https://www.linkedin.com/in/neelshha). See my work on [X](https://x.com/neelshha), code on [GitHub](https://github.com/neelshha), and contact me at [Email](mailto:neelshha@gmail.com).
+
+I run [TventyOne Studio](https://www.tventyone.com). Design should have a point of view. I make sure it does.
+
+I do art direction and design engineering. I like software that feels clear and well built, and I care about the work that ships.
+
+**My Digital Presence**
+
+- Website → [neelshha.com](https://www.neelshha.com/)
+- Mail → [neelshha@gmail.com](mailto:neelshha@gmail.com)
+- X → [x.com/neelshha](https://x.com/neelshha)
+- GitHub → [github.com/neelshha](https://github.com/neelshha)
+- Medium → [medium.com/@neelshha](https://medium.com/@neelshha)
+- LinkedIn → [linkedin.com/in/neelshha](https://www.linkedin.com/in/neelshha)
+- Studio → [tventyone.com](https://www.tventyone.com)
