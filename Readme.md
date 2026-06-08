@@ -6,7 +6,6 @@ I'm a design engineer. I set the direction and build it. Previously, [Kill Your 
 
 I run [TventyOne Studio](https://www.tventyone.com). Design should have a point of view. I make sure it does.
 
----
 
 #### My Digital Presence
 
@@ -22,14 +21,6 @@ I run [TventyOne Studio](https://www.tventyone.com). Design should have a point 
   <tr>
     <td><strong>X</strong></td>
     <td><a href="https://x.com/neelshha">x.com/neelshha</a></td>
-  </tr>
-  <tr>
-    <td><strong>GitHub</strong></td>
-    <td><a href="https://github.com/neelshha">github.com/neelshha</a></td>
-  </tr>
-  <tr>
-    <td><strong>Medium</strong></td>
-    <td><a href="https://medium.com/@neelshha">medium.com/@neelshha</a></td>
   </tr>
   <tr>
     <td><strong>LinkedIn</strong></td>
