@@ -7,7 +7,7 @@ I'm a design engineer. I set the direction and build it. Previously, [Kill Your 
 I run [TventyOne Studio](https://www.tventyone.com). Design should have a point of view. I make sure it does.
 
 
-#### My Digital Presence
+## My Digital Presence
 
 <table>
   <tr>
